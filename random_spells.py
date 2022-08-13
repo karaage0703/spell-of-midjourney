@@ -5,8 +5,6 @@ import pyautogui
 import time
 import random
 
-word_numb = 3
-input_words = [0] * word_numb
 
 def get_args():
     parser = argparse.ArgumentParser()
