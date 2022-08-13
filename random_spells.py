@@ -19,6 +19,7 @@ def get_args():
 
 if __name__ == '__main__':
     args = get_args()
+    random.seed()
 
     with open('/usr/share/dict/words', 'r') as f:
         lines = f.readlines()
