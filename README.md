@@ -33,6 +33,13 @@ default：5
 number of words<br>
 default：3
 
+#### Effect
+
+
+https://user-images.githubusercontent.com/5562157/184532189-1f4fb9bd-b805-43ec-935e-5458b3abe586.mov
+
+
+
 
 ## License
 This software is released under the MIT License, see LICENSE.
