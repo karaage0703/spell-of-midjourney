@@ -38,8 +38,13 @@ default：3
 
 https://user-images.githubusercontent.com/5562157/184532189-1f4fb9bd-b805-43ec-935e-5458b3abe586.mov
 
+### serial_spell
+#### Usage
+Copy prompt of midjourney and execute following command, then activate midjourney's discord input screen.
 
-
+```sh
+$ python serial_spell
+```
 
 ## License
 This software is released under the MIT License, see LICENSE.
