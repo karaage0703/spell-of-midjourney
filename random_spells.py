@@ -31,8 +31,7 @@ if __name__ == '__main__':
         for i in range(args.word_numb):
             input_words[i] = lines[random.randint(1, len(lines)-1)].strip()
 
-        spell = '/imagine'
-        pyautogui.write(spell)
+        pyautogui.write('/imagine')
         pyautogui.press('tab')
         for word in input_words:
             pyautogui.write(word + ' ')
